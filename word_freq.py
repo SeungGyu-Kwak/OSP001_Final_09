@@ -29,3 +29,4 @@ idx = 1
 
 res = es.index(index='web', doc_type='word', id=1, body=e1)
 print(res)
+print("hello")
